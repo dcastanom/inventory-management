@@ -1,0 +1,20 @@
+{
+    "testing": "جارٍ الاختبار.....",
+    "welcome": "مرحبًا بك في تطبيق إدارة المخزون",
+    "books_not_found": "لم يتم العثور على كتب",
+    "book_not_found": "لم يتم العثور على الكتاب",
+    "book_deleted": "تم حذف الكتاب بنجاح",
+    "book_updated": "تم تحديث الكتاب بنجاح",
+    "book_created": "تم إنشاء الكتاب بنجاح",
+    "invalid_book_id": "معرّف الكتاب غير صالح",
+    "validation_errors": "أخطاء في التحقق",
+
+    "book_name_required": "اسم الكتاب مطلوب",
+    "book_name_length": "يجب أن يكون اسم الكتاب بين 3 و255 حرفًا",
+    "count_in_stock_required": "الكمية في المخزون مطلوبة",
+    "count_in_stock_invalid": "يجب أن تكون الكمية في المخزون عددًا صحيحًا غير سالب",
+    "price_required": "السعر مطلوب",
+    "price_invalid": "يجب أن يكون السعر رقمًا موجبًا",
+    "image_required": "الصورة مطلوبة",
+    "image_invalid": "رابط الصورة غير صالح"
+  }

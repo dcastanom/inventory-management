@@ -1,0 +1,20 @@
+{
+    "testing": "Probando.....",
+    "welcome": "Bienvenido a la aplicación de gestión de inventario",
+    "books_not_found": "No se encontraron libros",
+    "book_not_found": "No se encontró el libro",
+    "book_deleted": "Libro eliminado correctamente",
+    "book_updated": "Libro actualizado correctamente",
+    "book_created": "Libro creado correctamente",
+    "invalid_book_id": "ID de libro no válido",
+    "validation_errors": "Errores de validación",
+
+    "book_name_required": "El nombre del libro es obligatorio",
+    "book_name_length": "El nombre del libro debe tener entre 3 y 255 caracteres",
+    "count_in_stock_required": "La cantidad en inventario es obligatoria",
+    "count_in_stock_invalid": "La cantidad en inventario debe ser un número entero no negativo",
+    "price_required": "El precio es obligatorio",
+    "price_invalid": "El precio debe ser un número positivo",
+    "image_required": "La imagen es obligatoria",
+    "image_invalid": "URL de imagen no válida"
+  }

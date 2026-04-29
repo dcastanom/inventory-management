@@ -1,0 +1,20 @@
+{
+    "testing": "Testing.....",
+    "welcome": "Welcome to the Inventory Management App",
+    "books_not_found": "Books not found",
+    "book_not_found": "Book not found",
+    "book_deleted": "Book deleted successfully",
+    "book_updated": "Book updated successfully",
+    "book_created": "Book created successfully",
+    "invalid_book_id": "Invalid book ID",
+    "validation_errors": "Validation errors",
+
+    "book_name_required": "Book name is required",
+    "book_name_length": "Book name must be between 3 and 255 characters",
+    "count_in_stock_required": "Count in stock is required",
+    "count_in_stock_invalid": "Count in stock must be a non-negative integer",
+    "price_required": "Price is required",
+    "price_invalid": "Price must be a positive number",
+    "image_required": "Image is required",
+    "image_invalid": "Invalid image URL"
+  }
